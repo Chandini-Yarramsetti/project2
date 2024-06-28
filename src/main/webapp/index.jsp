@@ -1,10 +1,9 @@
 <html>
 <body>
 <h2>Welcome!</h2>
-<h2>buid success</h2>
-<h2>will see if it works</h2>
-<h3>Edited to observe the changes</h3>
-<h3>another commit</h3>
-<h4>project @2</h4>
+<h2>Cloned from Github</h2>
+<h2>Build Maven</h2>
+<h3>L-2</h3>
+<h4>Completed</h4>
 </body>
 </html>
